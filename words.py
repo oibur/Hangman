@@ -1,0 +1,1 @@
+words = ["Thanks for looking under the hood", "bulbasaur", "charmander", "squirtle", "raichu", "mewtwo", "supercalifragilisticexpialidocious"]
